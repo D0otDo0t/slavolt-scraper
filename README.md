@@ -14,7 +14,8 @@ To obtain an x-session-token:
 5. Select the header tab and copy the value of the x-session-token (can be found towards the bottom of the list). If there is no x-session-token select another request.
 **Note: Do not log out of divolt once you have obtained your token as it will no longer work (Just close tab).**
 ## Usage
-Download slavoltScraper.py and run using:
-`python3 slavoltScaper.py`
+1. Download slavoltscraper.py and requirements.txt
+2. Install requirements.txt using `pip install -r `requirements.txt`.
+3. Run scraper using `python3 slavoltScaper.py` and follow prompts as required.
 ## Acknowledgements
 Thanks to the slavart creators and account providers for creating this great service. Donate to them if you can (info provided in the severs #donate channel). 
