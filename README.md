@@ -4,7 +4,9 @@ Send download requests and recieve downloads links from the Slav Art [Divolt](ht
 * Python
 * A Divolt account that has joined the slavart server.
 * The Divolt account's x-session-token (see below).
+
 To obtain an x-session-token:
+
 1. Log in to [Divolt](https://divolt.xyz/).
 2. Open browser DevTools (f12).
 3. Click the network tab and then select the 'XHR' filter.
